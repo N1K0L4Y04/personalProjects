@@ -1,0 +1,59 @@
+[2021-06-04 12:51:03.696] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-04 12:51:03.696] [remoteagent] [info] Extension host agent started.
+[2021-06-04 12:51:04.324] [remoteagent] [info] [::ffff:172.24.192.1][681aa280][ManagementConnection] New connection established.
+[2021-06-04 12:51:04.325] [remoteagent] [info] [::ffff:172.24.192.1][8a840b68][ExtensionHostConnection] New connection established.
+[2021-06-04 12:51:04.446] [remoteagent] [info] [::ffff:172.24.192.1][8a840b68][ExtensionHostConnection] <280> Launched Extension Host Process.
+[2021-06-04 12:51:17.735] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-06-04 12:51:19.407] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2021-06-04 12:51:21.064] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2021-06-04 12:51:23.803] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-06-04 12:51:24.044] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-06-04 12:51:26.453] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.0ed352e5-0e5b-424f-ab8c-f6779eecaf62: ritwickdey.liveserver
+[2021-06-04 12:51:26.556] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/ritwickdey.liveserver-5.6.1
+[2021-06-04 12:51:26.558] [remoteagent] [info] Installation completed. ritwickdey.liveserver
+[2021-06-04 12:51:26.619] [remoteagent] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-06-04 12:51:26.817] [remoteagent] [info] Installing extension: ms-python.python
+[2021-06-04 12:51:29.756] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.3.0
+[2021-06-04 12:51:29.894] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.fee1c545-d44e-4ba0-905d-32f75aa43cd6: christian-kohler.path-intellisense
+[2021-06-04 12:51:29.997] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/christian-kohler.path-intellisense-2.3.0
+[2021-06-04 12:51:29.999] [remoteagent] [info] Installation completed. christian-kohler.path-intellisense
+[2021-06-04 12:51:30.123] [remoteagent] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2021-06-04 12:51:31.213] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.832593372
+[2021-06-04 12:51:32.566] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.bcf45135-aea6-41d2-b37e-d777e5a1d78f: ms-toolsai.jupyter
+[2021-06-04 12:51:32.644] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/ms-toolsai.jupyter-2021.6.832593372
+[2021-06-04 12:51:32.648] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2021-06-04 12:51:32.712] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-06-04 12:51:41.274] [remoteagent] [info] Downloaded extension: ms-python.python /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.5.842923320
+[2021-06-04 12:51:42.267] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.6.0
+[2021-06-04 12:51:47.919] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.191a8d2f-0d55-4f24-bbd3-00391be824a4: ms-python.python
+[2021-06-04 12:51:47.985] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.3be9dfc7-386d-4c11-a2b1-970624d69c2d: ms-python.vscode-pylance
+[2021-06-04 12:51:48.061] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/ms-python.python-2021.5.842923320
+[2021-06-04 12:51:48.064] [remoteagent] [info] Installation completed. ms-python.python
+[2021-06-04 12:51:48.129] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/ms-python.vscode-pylance-2021.6.0
+[2021-06-04 12:51:48.131] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-06-04 12:51:48.263] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2021-06-04 12:51:48.317] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-06-04 12:53:17.403] [remoteagent] [info] Installing extension: formulahendry.auto-rename-tag
+[2021-06-04 12:53:17.404] [remoteagent] [info] Installing extension: pkief.material-icon-theme
+[2021-06-04 12:53:18.339] [remoteagent] [info] Downloaded extension: formulahendry.auto-rename-tag /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.6
+[2021-06-04 12:53:18.370] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.d63c0258-a801-4f78-b041-e93ac5441607: formulahendry.auto-rename-tag
+[2021-06-04 12:53:18.446] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/formulahendry.auto-rename-tag-0.1.6
+[2021-06-04 12:53:18.447] [remoteagent] [info] Installation completed. formulahendry.auto-rename-tag
+[2021-06-04 12:53:18.505] [remoteagent] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2021-06-04 12:53:18.923] [remoteagent] [info] Downloaded extension: pkief.material-icon-theme /home/nikolay/.vscode-server/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.7.0
+[2021-06-04 12:53:19.456] [remoteagent] [info] Extracted extension to /home/nikolay/.vscode-server/extensions/.2967f82a-acfd-405d-a982-b56c104eb6bc: pkief.material-icon-theme
+[2021-06-04 12:53:19.523] [remoteagent] [info] Renamed to /home/nikolay/.vscode-server/extensions/pkief.material-icon-theme-4.7.0
+[2021-06-04 12:53:19.525] [remoteagent] [info] Installation completed. pkief.material-icon-theme
+[2021-06-04 12:53:19.582] [remoteagent] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-06-04 14:05:32.059] [remoteagent] [info] [::ffff:172.24.192.1][681aa280][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-04 14:05:33.298] [remoteagent] [info] [::ffff:172.24.192.1][8a840b68][ExtensionHostConnection] <280> Extension Host Process exited with code: 0, signal: null.
+[2021-06-04 14:05:33.299] [remoteagent] [info] Last EH closed, waiting before shutting down
